@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: white;
+}
+
+.menu-navegacion{
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.menu a{
+    color: rgb(90, 90, 90);
+    text-decoration: none;
+    padding: 0 35px 0 35px;
+}
+
+.imagen{
+    background-image: url(Imagenes/imagen.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.titulo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    text-align: center;
+}
+
+.section1{
+    margin: 50px 100px;
+}
+
+aside{
+    float: right;
+    width: 300px;
+}
+
+.aside h1{
+    color: white;
+}
+
+.aside a{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    text-decoration: none;
+    color: #66c0f4;
+}
+
+.explorar h1{
+    color: white;
+}
+
+.conendedor-div{
+    position:relative;
+}
