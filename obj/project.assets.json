@@ -8,31 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Shamir\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Neyss\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shamir\\Desktop\\Ingenieria de Software 2\\Estudio de Arquitectura J&W\\Estudio de Arquitectura J&W.csproj",
+      "projectUniqueName": "D:\\SoftwareII\\PaginaWeb\\Estudio-de-Arquitectura-J-W\\Estudio de Arquitectura J&W.csproj",
       "projectName": "Estudio de Arquitectura J&W",
-      "projectPath": "C:\\Users\\Shamir\\Desktop\\Ingenieria de Software 2\\Estudio de Arquitectura J&W\\Estudio de Arquitectura J&W.csproj",
-      "packagesPath": "C:\\Users\\Shamir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shamir\\Desktop\\Ingenieria de Software 2\\Estudio de Arquitectura J&W\\obj\\",
+      "projectPath": "D:\\SoftwareII\\PaginaWeb\\Estudio-de-Arquitectura-J-W\\Estudio de Arquitectura J&W.csproj",
+      "packagesPath": "C:\\Users\\Neyss\\.nuget\\packages\\",
+      "outputPath": "D:\\SoftwareII\\PaginaWeb\\Estudio-de-Arquitectura-J-W\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Shamir\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Neyss\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -68,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
