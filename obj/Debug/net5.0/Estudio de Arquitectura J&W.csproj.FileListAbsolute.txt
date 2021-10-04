@@ -1,0 +1,46 @@
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\bin\Debug\net5.0\appsettings.json
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\bin\Debug\net5.0\Estudio de Arquitectura J&W.exe
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\bin\Debug\net5.0\Estudio de Arquitectura J&W.deps.json
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\bin\Debug\net5.0\Estudio de Arquitectura J&W.runtimeconfig.json
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\bin\Debug\net5.0\Estudio de Arquitectura J&W.runtimeconfig.dev.json
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\bin\Debug\net5.0\Estudio de Arquitectura J&W.dll
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\bin\Debug\net5.0\ref\Estudio de Arquitectura J&W.dll
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\bin\Debug\net5.0\Estudio de Arquitectura J&W.pdb
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\bin\Debug\net5.0\Estudio de Arquitectura J&W.Views.dll
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\bin\Debug\net5.0\Estudio de Arquitectura J&W.Views.pdb
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.csprojAssemblyReference.cache
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.AssemblyInfoInputs.cache
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.AssemblyInfo.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.csproj.CoreCompileInputs.cache
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.RazorAssemblyInfo.cache
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.RazorAssemblyInfo.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\staticwebassets\Estudio de Arquitectura J&W.StaticWebAssets.Manifest.cache
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\staticwebassets\Estudio de Arquitectura J&W.StaticWebAssets.xml
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\scopedcss\bundle\Estudio de Arquitectura J&W.styles.css
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.TagHelpers.input.cache
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.TagHelpers.output.cache
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.RazorCoreGenerate.cache
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.RazorTargetAssemblyInfo.cache
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.RazorTargetAssemblyInfo.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.Views.pdb
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.dll
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\ref\Estudio de Arquitectura J&W.dll
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.pdb
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.genruntimeconfig.cache
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Estudio de Arquitectura J&W.csproj.CopyComplete
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Razor\Views\Home\Contacto.cshtml.g.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Razor\Views\Home\NuestraExperiencia.cshtml.g.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Razor\Views\Home\ProyectosRealizados.cshtml.g.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Razor\Views\Home\Servicios.cshtml.g.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Razor\Views\Home\ProyectosArealizar.cshtml.g.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Razor\Views\Home\Comentarios.cshtml.g.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Razor\Views\Home\Nosotros.cshtml.g.cs
+C:\Users\Shamir\Desktop\Ingenieria de Software 2\Estudio de Arquitectura J&W\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
