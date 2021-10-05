@@ -137,4 +137,5 @@ D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&
 D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.genruntimeconfig.cache
 D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.csproj.CopyComplete
 D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Servicios\Arquitectura.cshtml.g.cs
-D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Home\Arquitectura.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Servicios\Consultoria.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Servicios\Construccion.cshtml.g.cs

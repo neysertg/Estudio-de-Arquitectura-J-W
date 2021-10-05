@@ -58,6 +58,7 @@ namespace Estudio_de_Arquitectura_J_W.Controllers
             return View();
         }
 
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
