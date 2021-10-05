@@ -90,3 +90,51 @@ D:\SoftwareII\PaginaWeb\Estudio-de-Arquitectura-J-W\obj\Debug\net5.0\ref\Estudio
 D:\SoftwareII\PaginaWeb\Estudio-de-Arquitectura-J-W\obj\Debug\net5.0\Estudio de Arquitectura J&W.pdb
 D:\SoftwareII\PaginaWeb\Estudio-de-Arquitectura-J-W\obj\Debug\net5.0\Estudio de Arquitectura J&W.genruntimeconfig.cache
 D:\SoftwareII\PaginaWeb\Estudio-de-Arquitectura-J-W\obj\Debug\net5.0\Estudio de Arquitectura J&W.csproj.CopyComplete
+D:\IG2\Estudio-de-Arquitectura-J-W-1\bin\Debug\net5.0\appsettings.Development.json
+D:\IG2\Estudio-de-Arquitectura-J-W-1\bin\Debug\net5.0\appsettings.json
+D:\IG2\Estudio-de-Arquitectura-J-W-1\bin\Debug\net5.0\Estudio de Arquitectura J&W.exe
+D:\IG2\Estudio-de-Arquitectura-J-W-1\bin\Debug\net5.0\Estudio de Arquitectura J&W.deps.json
+D:\IG2\Estudio-de-Arquitectura-J-W-1\bin\Debug\net5.0\Estudio de Arquitectura J&W.runtimeconfig.json
+D:\IG2\Estudio-de-Arquitectura-J-W-1\bin\Debug\net5.0\Estudio de Arquitectura J&W.runtimeconfig.dev.json
+D:\IG2\Estudio-de-Arquitectura-J-W-1\bin\Debug\net5.0\Estudio de Arquitectura J&W.dll
+D:\IG2\Estudio-de-Arquitectura-J-W-1\bin\Debug\net5.0\ref\Estudio de Arquitectura J&W.dll
+D:\IG2\Estudio-de-Arquitectura-J-W-1\bin\Debug\net5.0\Estudio de Arquitectura J&W.pdb
+D:\IG2\Estudio-de-Arquitectura-J-W-1\bin\Debug\net5.0\Estudio de Arquitectura J&W.Views.dll
+D:\IG2\Estudio-de-Arquitectura-J-W-1\bin\Debug\net5.0\Estudio de Arquitectura J&W.Views.pdb
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.csprojAssemblyReference.cache
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.GeneratedMSBuildEditorConfig.editorconfig
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.AssemblyInfoInputs.cache
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.AssemblyInfo.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.csproj.CoreCompileInputs.cache
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.MvcApplicationPartsAssemblyInfo.cache
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.RazorAssemblyInfo.cache
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.RazorAssemblyInfo.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\staticwebassets\Estudio de Arquitectura J&W.StaticWebAssets.Manifest.cache
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\staticwebassets\Estudio de Arquitectura J&W.StaticWebAssets.xml
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\scopedcss\bundle\Estudio de Arquitectura J&W.styles.css
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.TagHelpers.input.cache
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.TagHelpers.output.cache
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.RazorCoreGenerate.cache
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Home\Comentarios.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Home\Contacto.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Home\Nosotros.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Home\NuestraExperiencia.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Home\ProyectosArealizar.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Home\ProyectosRealizados.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Home\Servicios.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.RazorTargetAssemblyInfo.cache
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.RazorTargetAssemblyInfo.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.Views.pdb
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.dll
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\ref\Estudio de Arquitectura J&W.dll
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.pdb
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.genruntimeconfig.cache
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Estudio de Arquitectura J&W.csproj.CopyComplete
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Servicios\Arquitectura.cshtml.g.cs
+D:\IG2\Estudio-de-Arquitectura-J-W-1\obj\Debug\net5.0\Razor\Views\Home\Arquitectura.cshtml.g.cs

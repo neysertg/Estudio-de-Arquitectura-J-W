@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftwareII\\PaginaWeb\\Estudio-de-Arquitectura-J-W\\Estudio de Arquitectura J&W.csproj": {}
+    "D:\\IG2\\Estudio-de-Arquitectura-J-W-1\\Estudio de Arquitectura J&W.csproj": {}
   },
   "projects": {
-    "D:\\SoftwareII\\PaginaWeb\\Estudio-de-Arquitectura-J-W\\Estudio de Arquitectura J&W.csproj": {
+    "D:\\IG2\\Estudio-de-Arquitectura-J-W-1\\Estudio de Arquitectura J&W.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftwareII\\PaginaWeb\\Estudio-de-Arquitectura-J-W\\Estudio de Arquitectura J&W.csproj",
+        "projectUniqueName": "D:\\IG2\\Estudio-de-Arquitectura-J-W-1\\Estudio de Arquitectura J&W.csproj",
         "projectName": "Estudio de Arquitectura J&W",
-        "projectPath": "D:\\SoftwareII\\PaginaWeb\\Estudio-de-Arquitectura-J-W\\Estudio de Arquitectura J&W.csproj",
-        "packagesPath": "C:\\Users\\Neyss\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftwareII\\PaginaWeb\\Estudio-de-Arquitectura-J-W\\obj\\",
+        "projectPath": "D:\\IG2\\Estudio-de-Arquitectura-J-W-1\\Estudio de Arquitectura J&W.csproj",
+        "packagesPath": "C:\\Users\\emax_\\.nuget\\packages\\",
+        "outputPath": "D:\\IG2\\Estudio-de-Arquitectura-J-W-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Neyss\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\emax_\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
